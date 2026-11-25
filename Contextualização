@@ -1,1 +1,25 @@
-Uma clínica de especialidades médicas deseja informatizar seu processo de triagem e organização das filas de atendimento, garantindo a identificação de pacientes que possuem prioridade de chamada.
+
+Código
+
+Categoria
+
+Condição
+
+N001
+
+Normal
+
+Pacientes sem condições de prioridade cadastradas
+
+P001
+
+Preferencial
+
+Gestantes, lactantes, pessoas com necessidades especiais, pessoas obesas, mulheres com 60 anos ou mais e homens com 65 anos ou mais
+
+U001
+
+Urgente
+
+Pacientes com idade superior a 80 anos
+
